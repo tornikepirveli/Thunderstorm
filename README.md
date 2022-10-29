@@ -15,6 +15,7 @@ conda activate thunderstorm
 jupyter notebook
 ```
 
-# Next steps for the project:
-## Increase local ram for iterative image analysis
-### P.S: There are some example analysis data in Results folder
+## Next steps for the project:
+Increase local ram for iterative image analysis
+
+#### P.S: There are some example data from analysis in Results folder
